@@ -138,9 +138,9 @@ streamlit run app/app.py
 - Golyandina, N., Korobeynikov, A., & Zhigljavsky, A.
 *Singular Spectrum Analysis with R.*
 
-- [Kaggle: Introducing SSA](https://www.kaggle.com/code/jdarcy/introducing-ssa-for-time-series-decomposition) Jordan D'Arcy
+-  Jordan D'Arcy, [Kaggle](https://www.kaggle.com/code/jdarcy/introducing-ssa-for-time-series-decomposition),  Introducing SSA for Time Series Decomposition
 
-- *Singular Spectrum Analysis for Time Series*
+- Golyandina, N., Zhigljavsky,[ResearchGate](https://www.researchgate.net/publication/260124592_Singular_Spectrum_Analysis_for_Time_Series) A.*Singular Spectrum Analysis for Time Series*
 
 
 
