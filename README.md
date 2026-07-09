@@ -2,7 +2,7 @@
 
 # 📈 Store Sales Analysis with Sequential Singular Spectrum Analysis (SSA)
 
-A Streamlit application demonstrating Sequential Singular Spectrum Analysis (SSA) for trend extraction, oscillatory mode identification, and signal reconstruction in retail sales time series.
+Singular Spectrum Analysis (SSA) applied to retail sales time series for trend extraction, oscillatory mode identification, and signal reconstruction.
 ---
 
 ## 📌 Overview
@@ -77,7 +77,12 @@ The analysis identified:
 
 ---
 
-## 🖥 Application
+## 🚀 Live Demo Application
+
+Try the application online:
+
+https://norquip-store-sales-sequential-ssa-appapp-tngklx.streamlit.app
+
 
 The Streamlit application includes:
 
