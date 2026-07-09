@@ -33,7 +33,7 @@ The application provides interactive visualizations that explain each step of th
 - Relative and cumulative variance contributions
 - Reconstruction of oscillatory modes
 - Final signal reconstruction
-- Interactive Streamlit interface
+- A Streamlit application interface
 
 ---
 
