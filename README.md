@@ -148,6 +148,4 @@ streamlit run app/app.py
 
 **Norma Quiroz**
 
-PhD in Theoretical Physics
 
-University of Guadalajara
