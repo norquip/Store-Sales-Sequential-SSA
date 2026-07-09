@@ -1,10 +1,8 @@
-# Store-Sales-Sequential-SSA
-Sequential Singular Spectrum Analysis (SSA) for trend extraction, oscillatory mode identification, and signal reconstruction.
 
 
 # 📈 Store Sales Analysis with Sequential Singular Spectrum Analysis (SSA)
 
-Streamlit application demonstrating Sequential Singular Spectrum Analysis (SSA) for trend extraction, oscillatory mode identification, and signal reconstruction in retail sales time series.
+A Streamlit application demonstrating Sequential Singular Spectrum Analysis (SSA) for trend extraction, oscillatory mode identification, and signal reconstruction in retail sales time series.
 ---
 
 ## 📌 Overview
