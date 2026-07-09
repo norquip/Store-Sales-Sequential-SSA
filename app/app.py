@@ -176,6 +176,9 @@ The workflow uses two sequential SSA decompositions to separate the series into 
 """)
 
     st.markdown("---")
+    st.caption("Custom Sequential SSA implementation  from scratch in Python using PyTorch tensor operations")
+
+    st.markdown("---")
 
     st.markdown("### Dataset")
 
@@ -193,11 +196,14 @@ The workflow uses two sequential SSA decompositions to separate the series into 
     st.write(f"**Stage 2:** Window length L = {L2}")
     
 
-    st.markdown("---")
+  
 
-    st.caption("Sequential SSA workflow implemented in Python.")
-
-
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("**Author**")
+    st.sidebar.markdown("Norma Quiroz")
+    st.sidebar.markdown("Physics • Data Science • Machine Learning")
+    st.sidebar.markdown("[GitHub](https://github.com/norquip)")
+    st.sidebar.markdown("[LinkedIn](www.linkedin.com/in/norma-quiroz-684b86314)")
 # ─────────────────────────────────────────────
 # Header
 # ─────────────────────────────────────────────
